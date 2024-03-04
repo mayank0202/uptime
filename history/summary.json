@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/odyssey-dev.goodunited.io.ico",
     "slug": "odyssey",
     "status": "down",
-    "uptime": "0.56%",
-    "uptimeDay": "0.56%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
+    "uptime": "0.46%",
+    "uptimeDay": "0.46%",
+    "uptimeWeek": "0.46%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 70
+      "2024-03-04": 88
     }
   }
 ]
