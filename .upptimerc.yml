@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Supporter-Service
-    url: https://supporter.stage.goodunited.io/
+    url: https://supporter.dev.goodunited.io/
   - name: Odyssey 
     url: https://odyssey.goodunited.io/
 
