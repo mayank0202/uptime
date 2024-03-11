@@ -5,39 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/supporter.stage.goodunited.io.ico",
     "slug": "supporter-service",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 230,
-    "timeDay": 265,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 233,
+    "timeDay": 286,
+    "timeWeek": 236,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2024-03-05": 73
-    }
-  },
-  {
-    "name": "Odyssey",
-    "url": "https://odyssey.stage.goodunited.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/odyssey.stage.goodunited.io.ico",
-    "slug": "odyssey",
-    "status": "down",
-    "uptime": "94.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "94.90%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-03-05": 190,
-      "2024-03-04": 266
     }
   }
 ]
