@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.dev.goodunited.io
   baseUrl: /uptime
-  logoUrl: https://image.pitchbook.com/PRHtpn7G6mH3a4UaGH8GrDN6kYN1702030713129_200x200
+  logoUrl: https://github.com/sourcefuse/arc-docs/blob/main/docs/assets/logo.png
   name: ARC uptime
   introTitle: "**ARC** uptime monitor and status page, powered entirely by GitHub."
   navbar:
