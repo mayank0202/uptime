@@ -6,15 +6,18 @@ sites:
   - name: arc-ecs-module
     url: https://registry.terraform.io/modules/sourcefuse/arc-ecs/aws/latest
 
+  - name: arc-ecs-mono-repo-template
+    url: https://dx.arc-prod.link/create/templates/default/arc-mono-repo-infra-template
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.dev.goodunited.io
   baseUrl: /uptime
   logoUrl: https://image.pitchbook.com/PRHtpn7G6mH3a4UaGH8GrDN6kYN1702030713129_200x200
-  name: Goodunited uptime
-  introTitle: "**Goodunited** uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a uptime status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: ARC uptime
+  introTitle: "**ARC** uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
