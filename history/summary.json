@@ -1,22 +1,20 @@
 [
   {
-    "name": "Supporter-Service",
-    "url": "https://supporter.stage.goodunited.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/supporter.stage.goodunited.io.ico",
-    "slug": "supporter-service",
+    "name": "arc-ecs-module",
+    "url": "https://registry.terraform.io/modules/sourcefuse/arc-ecs/aws/latest",
+    "icon": "https://icons.duckduckgo.com/ip3/registry.terraform.io.ico",
+    "slug": "arc-ecs-module",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 234,
-    "timeDay": 172,
-    "timeWeek": 194,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2024-03-05": 73
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {}
   }
 ]
